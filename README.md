@@ -5,6 +5,4 @@
 <h3>Project Structure</h3>
 -4 types of account (teacher, director, human resources and admin)
 <br>-Front end different for each account
-<br>-Hierarchically the admin controls everything and can edit data as he wishes, the human resources have all the information but cannot edit,<br>
- the director only accepts or declines the requests and is able to see the requests that he has denyed, acepted or still waiting for response and<br>
- for last the teacher can only send requests and can only see his sent requests, the accepted, declined and awaiting for response.
+<br>-Hierarchically the admin controls everything and can edit data as he wishes, the human resources have all the information but cannot edit, the director only accepts or declines the requests and is able to see the requests that he has denyed, acepted or still waiting for response and for last the teacher can only send requests and can only see his sent requests, the accepted, declined and awaiting for response.
